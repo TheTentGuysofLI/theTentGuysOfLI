@@ -1,5 +1,6 @@
 .bg-primary {
     background-image: url(https://www.gettent.com/images/20-x-20-presto-1-l.jpg) !important;
+    width: 100% !important;
 }
 
 #hiddenCard{
