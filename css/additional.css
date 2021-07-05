@@ -1,6 +1,7 @@
 .bg-primary {
-    background-image: url(https://www.gettent.com/images/20-x-20-presto-1-l.jpg) !important;
-    width: 100% !important;
+    /* background-image: url(https://www.gettent.com/images/20-x-20-presto-1-l.jpg) !important; */
+    background: url(https://uptownweddingandeventrental.com/project/uploads/2011/12/30x40-pole1-1024x768.jpg) !important;
+    /* width: 100% !important; */
 }
 
 #hiddenCard{
